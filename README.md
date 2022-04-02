@@ -1,1 +1,2 @@
-# Hogwarts-Music
+# Hogwarts-Music-Discord-Bot
+A Advance Discord Bot With Music , Moderation , Giveaways Etc
